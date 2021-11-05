@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "430953513943",
+    "firebase_url": "https://baseflutter-1a-default-rtdb.firebaseio.com",
+    "project_id": "baseflutter-1a",
+    "storage_bucket": "baseflutter-1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430953513943:android:e18df52ebc97dee3994192",
+        "android_client_info": {
+          "package_name": "com.nearueki.base_flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430953513943-fhspgv9qcqv9a224g6qefumi8tct7d0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm9twAaZe1NtFrPPO7vn9KAj9G23kKi0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430953513943-fhspgv9qcqv9a224g6qefumi8tct7d0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
